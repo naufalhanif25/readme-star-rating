@@ -221,9 +221,9 @@ Use the following colors as argument for `color` parameter.
             <td><code>![light-magenta](https://readme-star-rating.vercel.app/?theme=light&color=magenta)</code></td>
         </tr>
         <tr>
-            <td><code>default</code></td>
-            <td><img src="https://readme-star-rating.vercel.app/?theme=light&color=default" href="Star Rating"/></td>
-            <td><code>![light-default](https://readme-star-rating.vercel.app/?theme=light&color=default)</code></td>
+            <td><code>black</code></td>
+            <td><img src="https://readme-star-rating.vercel.app/?theme=light&color=black" href="Star Rating"/></td>
+            <td><code>![light-black](https://readme-star-rating.vercel.app/?theme=light&color=black)</code></td>
         </tr>
     </tbody>
 </table>
@@ -275,9 +275,9 @@ Use the following colors as argument for `color` parameter.
             <td><code>![dark-magenta](https://readme-star-rating.vercel.app/?theme=dark&color=magenta)</code></td>
         </tr>
         <tr>
-            <td><code>default</code></td>
-            <td><img src="https://readme-star-rating.vercel.app/?theme=dark&color=default" href="Star Rating"/></td>
-            <td><code>![dark-default](https://readme-star-rating.vercel.app/?theme=dark&color=default)</code></td>
+            <td><code>black</code></td>
+            <td><img src="https://readme-star-rating.vercel.app/?theme=dark&color=black" href="Star Rating"/></td>
+            <td><code>![dark-black](https://readme-star-rating.vercel.app/?theme=dark&color=black)</code></td>
         </tr>
     </tbody>
 </table>
