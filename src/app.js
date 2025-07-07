@@ -81,7 +81,7 @@ app.get("/", (req, res) => {
                 green: { fillColor: "#eef6ec", borderColor: "#99d18f", starFillColor: "#7bc86c", starBorderColor: "#d6ecd2" },
                 red: { fillColor: "#fbedeb", borderColor: "#ec9488", starFillColor: "#ef7564", starBorderColor: "#f5d3ce" },
                 magenta: { fillColor: "#fcf3f8", borderColor: "#ec71b1", starFillColor: "#e35199", starBorderColor: "#fbe8f3" },
-                default: { fillColor: "#f2f2f2", borderColor: "#999999", starFillColor: "#808080", starBorderColor: "#d9d9d9" }
+                black: { fillColor: "#f2f2f2", borderColor: "#999999", starFillColor: "#808080", starBorderColor: "#d9d9d9" }
             },
             dark: {
                 yellow: { fillColor: "#91741e", borderColor: "#d9af2d", starFillColor: "#f1c232", starBorderColor: "#a98823" },
@@ -91,7 +91,7 @@ app.get("/", (req, res) => {
                 green: { fillColor: "#40652f", borderColor: "#5f9747", starFillColor: "#6aa84f", starBorderColor: "#4a7637" },
                 red: { fillColor: "#5a2d2b", borderColor: "#a84e4a", starFillColor: "#d46a6a", starBorderColor: "#753838" },
                 magenta: { fillColor: "#642e49", borderColor: "#95456d", starFillColor: "#a64d79", starBorderColor: "#743655" },
-                default: { fillColor: "#0d0d0d", borderColor: "#595959", starFillColor: "#737373", starBorderColor: "#262626" }
+                black: { fillColor: "#0d0d0d", borderColor: "#595959", starFillColor: "#737373", starBorderColor: "#262626" }
             }
         }
 
