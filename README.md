@@ -22,7 +22,7 @@ https://readme-star-rating.vercel.app/
     <tbody>
         <tr>
             <td><img src="https://readme-star-rating.vercel.app/" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/</code></td>
+            <td><code>![Star Rating](https://readme-star-rating.vercel.app/?theme=light&color=yellow)</code></td>
         </tr>
     </tbody>
 </table>
@@ -188,42 +188,42 @@ Use the following colors as argument for `color` parameter.
         <tr>
             <td><code>yellow</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=light&color=yellow" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=light&color=yellow</code></td>
+            <td><code>![light-yellow](https://readme-star-rating.vercel.app/?theme=light&color=yellow)</code></td>
         </tr>
         <tr>
             <td><code>orange</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=light&color=orange" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=light&color=orange</code></td>
+            <td><code>![light-orange](https://readme-star-rating.vercel.app/?theme=light&color=orange)</code></td>
         </tr>
         <tr>
             <td><code>blue</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=light&color=blue" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=light&color=blue</code></td>
+            <td><code>![light-blue](https://readme-star-rating.vercel.app/?theme=light&color=blue)</code></td>
         </tr>
         <tr>
             <td><code>purple</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=light&color=purple" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=light&color=purple</code></td>
+            <td><code>![light-purple](https://readme-star-rating.vercel.app/?theme=light&color=purple)</code></td>
         </tr>
         <tr>
             <td><code>green</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=light&color=green" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=light&color=green</code></td>
+            <td><code>![light-green](https://readme-star-rating.vercel.app/?theme=light&color=green)</code></td>
         </tr>
         <tr>
             <td><code>red</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=light&color=red" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=light&color=red</code></td>
+            <td><code>![light-red](https://readme-star-rating.vercel.app/?theme=light&color=red)</code></td>
         </tr>
         <tr>
             <td><code>magenta</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=light&color=magenta" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=light&color=magenta</code></td>
+            <td><code>![light-magenta](https://readme-star-rating.vercel.app/?theme=light&color=magenta)</code></td>
         </tr>
         <tr>
             <td><code>default</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=light&color=default" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=light&color=default</code></td>
+            <td><code>![light-default](https://readme-star-rating.vercel.app/?theme=light&color=default)</code></td>
         </tr>
     </tbody>
 </table>
@@ -242,46 +242,46 @@ Use the following colors as argument for `color` parameter.
         <tr>
             <td><code>yellow</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=dark&color=yellow" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=dark&color=yellow</code></td>
+            <td><code>![dark-yellow](https://readme-star-rating.vercel.app/?theme=dark&color=yellow)</code></td>
         </tr>
         <tr>
             <td><code>orange</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=dark&color=orange" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=dark&color=orange</code></td>
+            <td><code>![dark-orange](https://readme-star-rating.vercel.app/?theme=dark&color=orange)</code></td>
         </tr>
         <tr>
             <td><code>blue</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=dark&color=blue" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=dark&color=blue</code></td>
+            <td><code>![dark-blue](https://readme-star-rating.vercel.app/?theme=dark&color=blue)</code></td>
         </tr>
         <tr>
             <td><code>purple</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=dark&color=purple" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=dark&color=purple</code></td>
+            <td><code>![dark-purple](https://readme-star-rating.vercel.app/?theme=dark&color=purple)</code></td>
         </tr>
         <tr>
             <td><code>green</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=dark&color=green" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=dark&color=green</code></td>
+            <td><code>![dark-green](https://readme-star-rating.vercel.app/?theme=dark&color=green)</code></td>
         </tr>
         <tr>
             <td><code>red</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=dark&color=red" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=dark&color=red</code></td>
+            <td><code>![dark-red](https://readme-star-rating.vercel.app/?theme=dark&color=red)</code></td>
         </tr>
         <tr>
             <td><code>magenta</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=dark&color=magenta" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=dark&color=magenta</code></td>
+            <td><code>![dark-magenta](https://readme-star-rating.vercel.app/?theme=dark&color=magenta)</code></td>
         </tr>
         <tr>
             <td><code>default</code></td>
             <td><img src="https://readme-star-rating.vercel.app/?theme=dark&color=default" href="Star Rating"/></td>
-            <td><code>https://readme-star-rating.vercel.app/?theme=dark&color=default</code></td>
+            <td><code>![dark-default](https://readme-star-rating.vercel.app/?theme=dark&color=default)</code></td>
         </tr>
     </tbody>
 </table>
 
-## Contributing
+## Contribution
 
 Contributions are welcome and appreciated! If you'd like to improve the project, whether it's fixing bugs, improving tests, or adding new features, feel free to open an issue or submit a pull request. Before contributing, please make sure your changes are well-tested and align with the project's coding style. If you're unsure where to start, take a look at the existing issues or reach out with suggestions — every bit of help counts!
